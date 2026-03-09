@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../docs"
+		},
+		{
+			"path": "../frontend"
+		},
+		{
+			"path": "../nginx"
+		},
+		{
+			"path": "../worker"
+		}
+	]
+}
